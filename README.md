@@ -8,4 +8,4 @@ Current plan is to do this for various IaaS providers (AWS, GCP, IBM, Azure), et
 Pull request welcome. Issues reporting appreciated.
 
 
-* [AWS_EC2](../tree/main/aws_ec2)  provision AWS infrastructure from scratch, in order to have a fully patched Ubuntu instance
+* [aws_ec2](./tree/main/aws_ec2)  provision AWS infrastructure from scratch, in order to have a fully patched Ubuntu instance
