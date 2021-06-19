@@ -9,6 +9,6 @@ Current plan is to do this for various IaaS providers (AWS, GCP, IBM, Azure), et
 Pull request welcome. Issues reporting appreciated.
 
 * [aws_ec2](../../tree/main/aws_ec2)  
-> to provision AWS infrastructure from scratch, to instantiate a functional & customizable EC2 instance
-* [docker_k8s_minikube](../../tree/main/docker_k8s_minikube)
-> to bake a docker image to run a hello-world python flask app, publishes to minikube, and configures a kubernets service using this image & terraform
+> to provision AWS infrastructure from scratch, then instantiate a functional & accessible & customizable EC2 instance
+* [k8s_minikube](../../tree/main/k8s_minikube)
+> to bake a docker image to run a hello-world python flask app, publish to minikube, and configure a kubernets service using this image & terraform
