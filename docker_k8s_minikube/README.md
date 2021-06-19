@@ -7,6 +7,6 @@ prereqs:
 
 Please review README in each directory
 
-* README  - this file
+* README.md  - this file
 * docker-image/     This directory prepares & publishes a docker image to minikube.
 * terra-minikube/   This directory uses terraform to configure a two-replica deployment with the image above and to expose through service/nodeport
